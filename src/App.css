@@ -1,0 +1,19 @@
+.nav-pills > li > a {
+    color: black;
+}
+
+.nav-pills > .active > a {
+    background-color: black;
+}
+
+.compareControl > tr > td {
+    text-align: center;
+}
+
+::placeholder {
+    color: #a3a3a3;
+}
+
+.no-decoration:hover {
+    text-decoration: none;
+}
